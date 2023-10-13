@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -c 1
+cat An\ Acrostic | cat -c 1
