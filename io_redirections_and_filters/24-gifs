@@ -1,2 +1,2 @@
 #!/bin/bash
- find . -L -type f -name "*.gif" -printf "%f\n" 
+ls -Ra | grep *.gif
